@@ -6,7 +6,7 @@
 
 This notebook presents an analysis of a dataset comprising birth rates and related data across the 50 states and DC from 2016 to 2021. The dataset, sourced from the Centers for Disease Control and Prevention (CDC), provides comprehensive information including the number of births, gender distribution, birth weight, state of delivery, and year of delivery. By examining this dataset, we aim to uncover trends, patterns, and insights regarding birth rates and characteristics across different geographic locations and time periods. The analysis will contribute to a better understanding of factors influencing birth outcomes and facilitate evidence-based decision-making in maternal and child health.
 
-Dataset from [Kiggle](https://www.kaggle.com/datasets/danbraswell/temporary-us-births)
+Dataset from [Kaggle](https://www.kaggle.com/datasets/danbraswell/temporary-us-births)
 
 ## Exploratory Data Analysis(EDA)
 1. What are the birth rates between 2016 and 2021?
